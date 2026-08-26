@@ -1,7 +1,5 @@
 # Dashboard Executivo — estrutura modular
 
-O monólito original foi separado por responsabilidade, mantendo as cinco abas e a lógica de acesso ao Firebird.
-
 ## Camadas
 - `config/`: configurações.
 - `database/`: conexão Firebird.
