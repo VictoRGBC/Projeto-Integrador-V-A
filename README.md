@@ -12,5 +12,3 @@
 pip install -r requirements.txt
 streamlit run app.py
 ```
-
-A configuração `st.secrets["db"]` continua sendo suportada.
